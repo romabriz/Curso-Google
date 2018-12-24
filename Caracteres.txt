@@ -1,0 +1,2 @@
+Utiliza UTF-8 sin BOM.
+Diferencias entre ISO-8859-1 (Latin1) e ISO-8859-15 (Latin9).
